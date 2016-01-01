@@ -6,7 +6,7 @@ This is a list of tasks to be carried out by the lead of the project before the 
 
 * Define time-lines and when all deliverables are due to be delivered.
 
-* Agree tech stack & create tech req spec.
+* Agree tech stack & create tech requirements specification.
 
 * Define a set of code metrics to follow throughout the course of the project.
 
